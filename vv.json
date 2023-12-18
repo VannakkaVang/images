@@ -1,0 +1,17 @@
+[
+    {
+      "id": 1,
+      "name": "Alice Johnson",
+      "image_url": "https://example.com/user1/profile.jpg"
+    },
+    {
+      "id": 2,
+      "name": "Bob Smith",
+      "image_url": "https://example.com/user2/profile.jpg"
+    },
+    {
+      "id": 3,
+      "name": "Charlie Brown",
+      "image_url": "https://example.com/user3/profile.jpg"
+    }
+  ]
